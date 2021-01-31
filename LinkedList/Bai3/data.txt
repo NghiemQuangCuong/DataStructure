@@ -1,0 +1,36 @@
+7
+0004
+Aquafina
+Trang
+500.0
+10000.0
+0002
+Omo
+Trang
+50.0
+17000.0
+0003
+Omo
+Den
+45.0
+20000.0
+0001
+Comfort
+Den
+133.0
+69000.0
+0007
+Ban Hoc Sinh
+Vang
+2000.0
+78000.0
+0006
+Quat May
+Trang
+1000.0
+155000.0
+0005
+Nuoc Hoa
+Trang
+10.0
+200000.0
