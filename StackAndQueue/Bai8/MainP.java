@@ -72,7 +72,7 @@ public class MainP
 
     public static void main(String[] args)
     {
-        String expression = "(3+(5*(8+1)-7)*9)-(6+2)/2-5";
+        String expression = "(3+(5*(8+5-3-1-3-4*7*4*3*(3-3+1+3*6/3)*2+1)-7)*9)-(6+2)/2-5";
         expression = expression + ".";
 
         String temp = "";
